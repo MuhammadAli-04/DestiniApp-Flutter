@@ -1,4 +1,4 @@
-# destini_app2
+# Destini App
 
 A new Flutter project.
 
